@@ -1,0 +1,52 @@
+﻿@model IEnumerable<QuickKartMVCApp.Models.Product>
+
+@{
+    ViewBag.Title = "ViewProducts";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>ViewProducts</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CategoryId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.QuantityAvailable)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CategoryId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Price)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProductName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.QuantityAvailable)
+        </td>
+        <td>
+            @Html.ActionLink("Update", "UpdateResult", new { ProductId=item.ProductId,ProductName=item.ProductName,CategoryId=item.CategoryId,Price=item.Price,QuantityAvailable=item.QuantityAvailable }) |
+         
+            @Html.ActionLink("Delete", "DeleteProduct", new { ProductId = item.ProductId, ProductName = item.ProductName, CategoryId = item.CategoryId, Price = item.Price, QuantityAvailable = item.QuantityAvailable })
+        </td>
+    </tr>
+}
+
+</table>

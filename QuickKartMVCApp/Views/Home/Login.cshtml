@@ -1,0 +1,88 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+}
+
+
+
+<div class="container">
+ @{ 
+     Html.BeginForm("CheckRole", "Home"); //first parameter is action ("CheckRole()"). Second parameter is Controller("HomeController").
+    <div class="row">
+        <div class="col-md-12">
+            &nbsp;
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+            </div>
+            <div class="col-md-9">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-9 text-center">
+                            <h2>Log in</h2>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 text-right">
+                            User Name:
+                        </div>
+                        <div class="col-md-6">
+                           @{ if (Request.Browser.Cookies != false) {
+                                   HttpCookie cookieObj = Request.Cookies["User"];
+                                   if (cookieObj != null)
+                                   {
+                                       @Html.TextBox("name", cookieObj.Values[0]);
+                                   }
+                                   else
+                                   {
+                                        @Html.TextBox("name");
+                                   }
+                               }
+                        }
+                        </div>
+                    </div>
+                    <br />
+                    <div class="row">
+                        <div class="col-md-3 text-right">
+                            Password:
+                        </div>
+                        <div class="col-md-6">
+                            @{ if (Request.Browser.Cookies != false)
+                                {
+                                    HttpCookie cookieObj = Request.Cookies["User"];
+                                    if (cookieObj != null)
+                                    {
+                                        @Html.TextBox("pwd", cookieObj.Values[1]);
+                                    }
+                                    else
+                                    {
+                                        @Html.TextBox("pwd");
+                                    }
+                                }
+                            }
+                        </div>
+                    </div>
+                    <br />
+                    <div class="row">
+                        <div class="col-md-3 text-right">
+                            &nbsp;
+                        </div>
+                        <div class="col-md-6">
+                            <input type="submit" class="btn" value="Login" id="btnLogin" />
+                            @Html.CheckBox("RememberMe")Remember Me
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 text-right">
+                            &nbsp;
+                        </div>
+                        <div class="col-md-6">
+                            @Html.ActionLink("New User Registration", "RegisterUser", "User")
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+   }
+</div>

@@ -1,0 +1,66 @@
+C:\Users\Himanshu.Bajpai\Desktop\QuickKartMVCSolution\QuickKartDataAccessLayer\bin\Debug\QuickKartDataAccessLayer.dll.config
+C:\Users\Himanshu.Bajpai\Desktop\QuickKartMVCSolution\QuickKartDataAccessLayer\bin\Debug\QuickKartDataAccessLayer.dll
+C:\Users\Himanshu.Bajpai\Desktop\QuickKartMVCSolution\QuickKartDataAccessLayer\bin\Debug\QuickKartDataAccessLayer.pdb
+C:\Users\Himanshu.Bajpai\Desktop\QuickKartMVCSolution\QuickKartDataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Himanshu.Bajpai\Desktop\QuickKartMVCSolution\QuickKartDataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Himanshu.Bajpai\Desktop\QuickKartMVCSolution\QuickKartDataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Himanshu.Bajpai\Desktop\QuickKartMVCSolution\QuickKartDataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Himanshu.Bajpai\Desktop\QuickKartMVCSolution\QuickKartDataAccessLayer\obj\Debug\QuickKartDataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Himanshu.Bajpai\Desktop\QuickKartMVCSolution\QuickKartDataAccessLayer\obj\Debug\QuickKartDataAccessLayer.dll
+C:\Users\Himanshu.Bajpai\Desktop\QuickKartMVCSolution\QuickKartDataAccessLayer\obj\Debug\QuickKartDataAccessLayer.pdb
+D:\kaarthikha\D_drive\review\2017\ILP Course creation\Requirements\Requirement4\QuickKart\QuickKartDataAccessLayer\bin\Debug\QuickKartDataAccessLayer.dll.config
+D:\kaarthikha\D_drive\review\2017\ILP Course creation\Requirements\Requirement4\QuickKart\QuickKartDataAccessLayer\bin\Debug\QuickKartDataAccessLayer.dll
+D:\kaarthikha\D_drive\review\2017\ILP Course creation\Requirements\Requirement4\QuickKart\QuickKartDataAccessLayer\bin\Debug\QuickKartDataAccessLayer.pdb
+D:\kaarthikha\D_drive\review\2017\ILP Course creation\Requirements\Requirement4\QuickKart\QuickKartDataAccessLayer\bin\Debug\EntityFramework.dll
+D:\kaarthikha\D_drive\review\2017\ILP Course creation\Requirements\Requirement4\QuickKart\QuickKartDataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\kaarthikha\D_drive\review\2017\ILP Course creation\Requirements\Requirement4\QuickKart\QuickKartDataAccessLayer\bin\Debug\EntityFramework.xml
+D:\kaarthikha\D_drive\review\2017\ILP Course creation\Requirements\Requirement4\QuickKart\QuickKartDataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\kaarthikha\D_drive\review\2017\ILP Course creation\Requirements\Requirement4\QuickKart\QuickKartDataAccessLayer\obj\Debug\QuickKartDataAccessLayer.csprojResolveAssemblyReference.cache
+D:\kaarthikha\D_drive\review\2017\ILP Course creation\Requirements\Requirement4\QuickKart\QuickKartDataAccessLayer\obj\Debug\QuickKartDataAccessLayer.dll
+D:\kaarthikha\D_drive\review\2017\ILP Course creation\Requirements\Requirement4\QuickKart\QuickKartDataAccessLayer\obj\Debug\QuickKartDataAccessLayer.pdb
+D:\kaarthikha\D_drive\review\2017\ILP Course creation\Requirements\Requirement5\QuickKart\QuickKartDataAccessLayer\obj\Debug\QuickKartDataAccessLayer.csprojResolveAssemblyReference.cache
+D:\kaarthikha\D_drive\review\2017\ILP Course creation\Requirements\Requirement5\QuickKart\QuickKartDataAccessLayer\obj\Debug\QuickKartDataAccessLayer.dll
+D:\kaarthikha\D_drive\review\2017\ILP Course creation\Requirements\Requirement5\QuickKart\QuickKartDataAccessLayer\obj\Debug\QuickKartDataAccessLayer.pdb
+D:\kaarthikha\D_drive\review\2017\ILP Course creation\Requirements\Requirement5\QuickKart\QuickKartDataAccessLayer\bin\Debug\QuickKartDataAccessLayer.dll.config
+D:\kaarthikha\D_drive\review\2017\ILP Course creation\Requirements\Requirement5\QuickKart\QuickKartDataAccessLayer\bin\Debug\QuickKartDataAccessLayer.dll
+D:\kaarthikha\D_drive\review\2017\ILP Course creation\Requirements\Requirement5\QuickKart\QuickKartDataAccessLayer\bin\Debug\QuickKartDataAccessLayer.pdb
+D:\kaarthikha\D_drive\review\2017\ILP Course creation\Requirements\Requirement5\QuickKart\QuickKartDataAccessLayer\bin\Debug\EntityFramework.dll
+D:\kaarthikha\D_drive\review\2017\ILP Course creation\Requirements\Requirement5\QuickKart\QuickKartDataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\kaarthikha\D_drive\review\2017\ILP Course creation\Requirements\Requirement5\QuickKart\QuickKartDataAccessLayer\bin\Debug\EntityFramework.xml
+D:\kaarthikha\D_drive\review\2017\ILP Course creation\Requirements\Requirement5\QuickKart\QuickKartDataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\kaarthikha\D_drive\review\2017\ILP Course creation\Exercises\Exercise9\QuickKart\QuickKartDataAccessLayer\bin\Debug\QuickKartDataAccessLayer.dll.config
+D:\kaarthikha\D_drive\review\2017\ILP Course creation\Exercises\Exercise9\QuickKart\QuickKartDataAccessLayer\bin\Debug\QuickKartDataAccessLayer.dll
+D:\kaarthikha\D_drive\review\2017\ILP Course creation\Exercises\Exercise9\QuickKart\QuickKartDataAccessLayer\bin\Debug\QuickKartDataAccessLayer.pdb
+D:\kaarthikha\D_drive\review\2017\ILP Course creation\Exercises\Exercise9\QuickKart\QuickKartDataAccessLayer\bin\Debug\EntityFramework.dll
+D:\kaarthikha\D_drive\review\2017\ILP Course creation\Exercises\Exercise9\QuickKart\QuickKartDataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\kaarthikha\D_drive\review\2017\ILP Course creation\Exercises\Exercise9\QuickKart\QuickKartDataAccessLayer\bin\Debug\EntityFramework.xml
+D:\kaarthikha\D_drive\review\2017\ILP Course creation\Exercises\Exercise9\QuickKart\QuickKartDataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\kaarthikha\D_drive\review\2017\ILP Course creation\Exercises\Exercise9\QuickKart\QuickKartDataAccessLayer\obj\Debug\QuickKartDataAccessLayer.csprojResolveAssemblyReference.cache
+D:\kaarthikha\D_drive\review\2017\ILP Course creation\Exercises\Exercise9\QuickKart\QuickKartDataAccessLayer\obj\Debug\QuickKartDataAccessLayer.dll
+D:\kaarthikha\D_drive\review\2017\ILP Course creation\Exercises\Exercise9\QuickKart\QuickKartDataAccessLayer\obj\Debug\QuickKartDataAccessLayer.pdb
+D:\Nehaa\ILP MVC\Demo14\QuickKart\QuickKartDataAccessLayer\bin\Debug\QuickKartDataAccessLayer.dll.config
+D:\Nehaa\ILP MVC\Demo14\QuickKart\QuickKartDataAccessLayer\bin\Debug\QuickKartDataAccessLayer.dll
+D:\Nehaa\ILP MVC\Demo14\QuickKart\QuickKartDataAccessLayer\bin\Debug\QuickKartDataAccessLayer.pdb
+D:\Nehaa\ILP MVC\Demo14\QuickKart\QuickKartDataAccessLayer\bin\Debug\EntityFramework.dll
+D:\Nehaa\ILP MVC\Demo14\QuickKart\QuickKartDataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Nehaa\ILP MVC\Demo14\QuickKart\QuickKartDataAccessLayer\bin\Debug\EntityFramework.xml
+D:\Nehaa\ILP MVC\Demo14\QuickKart\QuickKartDataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Nehaa\ILP MVC\Demo14\QuickKart\QuickKartDataAccessLayer\obj\Debug\QuickKartDataAccessLayer.csprojResolveAssemblyReference.cache
+D:\Nehaa\ILP MVC\Demo14\QuickKart\QuickKartDataAccessLayer\obj\Debug\QuickKartDataAccessLayer.dll
+D:\Nehaa\ILP MVC\Demo14\QuickKart\QuickKartDataAccessLayer\obj\Debug\QuickKartDataAccessLayer.pdb
+D:\Nehaa\ILP MVC\QuickKartDataAccessLayer\bin\Debug\QuickKartDataAccessLayer.dll.config
+D:\Nehaa\ILP MVC\QuickKartDataAccessLayer\bin\Debug\QuickKartDataAccessLayer.dll
+D:\Nehaa\ILP MVC\QuickKartDataAccessLayer\bin\Debug\QuickKartDataAccessLayer.pdb
+D:\Nehaa\ILP MVC\QuickKartDataAccessLayer\bin\Debug\EntityFramework.xml
+D:\Nehaa\ILP MVC\QuickKartDataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Nehaa\ILP MVC\QuickKartDataAccessLayer\obj\Debug\QuickKartDataAccessLayer.csprojResolveAssemblyReference.cache
+D:\Nehaa\ILP MVC\QuickKartDataAccessLayer\obj\Debug\QuickKartDataAccessLayer.dll
+D:\Nehaa\ILP MVC\QuickKartDataAccessLayer\obj\Debug\QuickKartDataAccessLayer.pdb
+C:\Users\taha.tariq\Documents\Visual Studio 2015\Projects\QuickKartMVCApp\QuickKartDataAccessLayer\bin\Debug\QuickKartDataAccessLayer.dll.config
+C:\Users\taha.tariq\Documents\Visual Studio 2015\Projects\QuickKartMVCApp\QuickKartDataAccessLayer\bin\Debug\QuickKartDataAccessLayer.dll
+C:\Users\taha.tariq\Documents\Visual Studio 2015\Projects\QuickKartMVCApp\QuickKartDataAccessLayer\bin\Debug\QuickKartDataAccessLayer.pdb
+C:\Users\taha.tariq\Documents\Visual Studio 2015\Projects\QuickKartMVCApp\QuickKartDataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\taha.tariq\Documents\Visual Studio 2015\Projects\QuickKartMVCApp\QuickKartDataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\taha.tariq\Documents\Visual Studio 2015\Projects\QuickKartMVCApp\QuickKartDataAccessLayer\obj\Debug\QuickKartDataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\taha.tariq\Documents\Visual Studio 2015\Projects\QuickKartMVCApp\QuickKartDataAccessLayer\obj\Debug\QuickKartDataAccessLayer.dll
+C:\Users\taha.tariq\Documents\Visual Studio 2015\Projects\QuickKartMVCApp\QuickKartDataAccessLayer\obj\Debug\QuickKartDataAccessLayer.pdb

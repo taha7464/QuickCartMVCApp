@@ -1,0 +1,38 @@
+﻿@model IEnumerable<QuickKartMVCApp.Models.Product>
+@{
+    ViewBag.Title = "GetProductForCategory";
+    Layout = "~/Views/Shared/_LayoutCustomer.cshtml";
+    WebGrid gridProducts = new WebGrid(Model, rowsPerPage: 5, canSort: true);
+}
+
+@using (Html.BeginForm())
+{
+    <div class="row form-group">
+        <label class="control-label col-md-2">Choose Category</label>
+        <div class="col-md-10">
+            @Html.DropDownList("categoryId", new SelectList(ViewBag.CategoryList, "CategoryId", "CategoryName"), (string)ViewBag.SelectedCategory, htmlAttributes: new { @class = "form-control", @onchange = "this.form.submit()" })
+
+        </div>
+    </div>
+}
+@if (Model.Any())
+{
+    @gridProducts.GetHtml(
+          tableStyle: "table table-bordered table-hover table-striped bg-danger",
+                    columns: new[]
+                     {
+                         gridProducts.Column("ProductName", header: "Product Name"),
+                         gridProducts.Column("CategoryId", header: "Category Id"),
+                         gridProducts.Column("Price", header: "Price"),
+                         gridProducts.Column("QuantityAvailable", header: "Quantity Available"),
+                         gridProducts.Column("", format: @<text>
+        @Html.ActionLink("Purchase", "PurchaseProduct","Purchase")</text> , canSort: false)
+                     }
+    );
+}
+else
+{
+    <div class="alert alert-danger">
+        No Products Found.
+    </div>
+}

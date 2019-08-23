@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "AdminHome";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>AdminHome</h2>
+
+<h3 class="text-center">Admin Home Page</h3>
+<div class="row">
+    <div class="col-md-9"></div>
+    <div class="cod-md-3">Your last login was at @{
+        if (TempData["lastLogin"] != null)
+        {
+            @TempData["lastLogin"].ToString();
+            }
+            else
+            {
+                <p>No Previous Logins</p>
+            } }</div>
+</div>
+<div class="row">
+    <div class="col-md-4">
+        @Html.Partial("_RecentPurchases")
+    </div>
+    <div class="col-md-8">
+
+    </div>
+</div>

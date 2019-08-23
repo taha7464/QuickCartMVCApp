@@ -1,0 +1,79 @@
+﻿
+@{
+    ViewBag.Title = "RegisterUser";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            &nbsp;
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+            </div>
+            <div class="col-md-9">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-9 text-center">
+                            <h2>Register User</h2>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 text-right">
+                            Email Id:
+                        </div>
+                        <div class="col-md-6">
+                            @Html.TextBox("name")
+                        </div>
+                    </div>
+                    <br />
+                    <div class="row">
+                        <div class="col-md-3 text-right">
+                            User Password:
+                        </div>
+                        <div class="col-md-6">
+                            @Html.Password("pwd")
+                        </div>
+                    </div>
+                    <br />
+                    <div class="row">
+                        <div class="col-md-3 text-right">
+                            Gender:
+                        </div>
+                        <div class="col-md-6">
+                            @Html.TextBox("gender")
+                        </div>
+                    </div>
+                    <br />
+                    <div class="row">
+                        <div class="col-md-3 text-right">
+                            Date Of Birth:
+                        </div>
+                        <div class="col-md-6">
+                            @Html.TextBox("pwd")
+                        </div>
+                    </div>
+                    <br/>
+                    <div class="row">
+                        <div class="col-md-3 text-right">
+                            Address:
+                        </div>
+                        <div class="col-md-6">
+                            @Html.TextBox("address")
+                        </div>
+                    </div>
+                    <br />
+
+                    <div class="row">
+                        <div class="col-md-3 text-right">
+                            &nbsp;
+                        </div>
+                        <div class="col-md-6">
+                            <input type="submit" class="btn" value="Register" id="btnLogin" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
